@@ -2,10 +2,10 @@ import random
 import numpy as np
 import matplotlib.pyplot as plt
 from argparse import ArgumentParser
-from CS545Assignment2.MountainCar import MountainCar
-from CS545Assignment2.sarsa import *
-from CS545Assignment2.double_q import *
-from CS545Assignment2.expected_sarsa import *
+from MountainCar import MountainCar
+from sarsa import *
+from double_q import *
+from expected_sarsa import *
 
 
 NUMBER_OF_RUNS = 0
