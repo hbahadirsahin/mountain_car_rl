@@ -4,7 +4,7 @@ import random
 from keras.models import Sequential
 from keras.layers.core import Dense
 from keras.optimizers import sgd
-from CS545Assignment2.MountainCar import MountainCar
+from MountainCar import MountainCar
 
 class ExperienceReplay(object):
     def __init__(self, max_memory=100, discount=.99):
