@@ -1,5 +1,5 @@
 import numpy as np
-from CS545Assignment2.TileCodingCodeFromSutton import *
+from TileCodingCodeFromSutton import *
 
 
 class Sarsa:
