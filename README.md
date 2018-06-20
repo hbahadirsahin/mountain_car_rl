@@ -10,9 +10,9 @@ This repository contains 8 python files:
 
 For whom to run this assignment, use following command lines (obviously, one can change the parameters):
 
-python main.py --algorithm 1 --runs 10 --max-episode 500 --max-timestep 200
-python main.py --algorithm 2 --runs 10 --max-episode 500 --max-timestep 200
-python main.py --algorithm 3 --runs 10 --max-episode 500 --max-timestep 200
+- python main.py --algorithm 1 --runs 10 --max-episode 500 --max-timestep 200
+- python main.py --algorithm 2 --runs 10 --max-episode 500 --max-timestep 200
+- python main.py --algorithm 3 --runs 10 --max-episode 500 --max-timestep 200
 
 Note that main method takes 4 arguments:
 
